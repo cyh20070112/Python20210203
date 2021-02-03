@@ -1,0 +1,10 @@
+a = []
+a.append('跑步')
+a.append('籃球')
+a.append('棒球')
+a.append('排球')
+print(a)
+a.insert(0,'學校')
+a.insert(2,123)
+a.remove('排球')
+print(a)
